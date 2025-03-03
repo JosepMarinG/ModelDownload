@@ -1,0 +1,26 @@
+[0.591s] Invoking command in '/home/josep/PycharmProjects/ModelDownload/ros2_ws/src/ia_to_ros': PYTHONPATH=/home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data
+[0.828s] running egg_info
+[0.828s] writing ../../build/ia_to_ros/ia_to_ros.egg-info/PKG-INFO
+[0.828s] writing dependency_links to ../../build/ia_to_ros/ia_to_ros.egg-info/dependency_links.txt
+[0.829s] writing entry points to ../../build/ia_to_ros/ia_to_ros.egg-info/entry_points.txt
+[0.829s] writing requirements to ../../build/ia_to_ros/ia_to_ros.egg-info/requires.txt
+[0.829s] writing top-level names to ../../build/ia_to_ros/ia_to_ros.egg-info/top_level.txt
+[0.830s] reading manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.831s] writing manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.831s] running build
+[0.832s] running build_py
+[0.832s] copying ia_to_ros/TextToROS.py -> /home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros
+[0.832s] running install
+[0.832s] running install_lib
+[0.833s] copying /home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros/TextToROS.py -> /home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros
+[0.834s] byte-compiling /home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/TextToROS.py to TextToROS.cpython-310.pyc
+[0.834s] running install_data
+[0.835s] running install_egg_info
+[0.836s] removing '/home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.836s] Copying ../../build/ia_to_ros/ia_to_ros.egg-info to /home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info
+[0.837s] running install_scripts
+[0.855s] Installing model script to /home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.855s] Installing talker script to /home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.855s] Installing translator script to /home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.855s] writing list of installed files to '/home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/install.log'
+[0.873s] Invoked command in '/home/josep/PycharmProjects/ModelDownload/ros2_ws/src/ia_to_ros' returned '0': PYTHONPATH=/home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/PycharmProjects/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/PycharmProjects/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data

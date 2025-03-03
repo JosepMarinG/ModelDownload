@@ -1,0 +1,7 @@
+[console_scripts]
+model = ia_to_ros.modelRosTest:main
+model2 = ia_to_ros.model2:main
+talker = ia_to_ros.publisher_member_function:main
+translator = ia_to_ros.TextToROS:main
+translator2 = ia_to_ros.Translator2:main
+
