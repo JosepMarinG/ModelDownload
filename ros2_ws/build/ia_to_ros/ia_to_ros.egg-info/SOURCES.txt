@@ -8,6 +8,8 @@ setup.py
 ../../build/ia_to_ros/ia_to_ros.egg-info/requires.txt
 ../../build/ia_to_ros/ia_to_ros.egg-info/top_level.txt
 ../../build/ia_to_ros/ia_to_ros.egg-info/zip-safe
+ia_to_ros/ImageToText_Segmentation.py
+ia_to_ros/TextToImage_Segmentation.py
 ia_to_ros/TextToROS.py
 ia_to_ros/Translator2.py
 ia_to_ros/__init__.py

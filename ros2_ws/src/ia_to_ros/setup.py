@@ -25,6 +25,8 @@ setup(
             'translator = ia_to_ros.TextToROS:main',
             'model2 = ia_to_ros.model2:main',
             'translator2 = ia_to_ros.Translator2:main',
+            'textToImage = ia_to_ros.TextToImage_Segmentation:main',
+            'imageToText = ia_to_ros.ImageToText_Segmentation:main',
         ],
     },
 )

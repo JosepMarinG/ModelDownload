@@ -1,0 +1,33 @@
+[0.579s] Invoking command in '/home/josep/robotics/ModelDownload/ros2_ws/src/ia_to_ros': PYTHONPATH=/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/home/josep/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data
+[0.703s] running egg_info
+[0.703s] writing ../../build/ia_to_ros/ia_to_ros.egg-info/PKG-INFO
+[0.703s] writing dependency_links to ../../build/ia_to_ros/ia_to_ros.egg-info/dependency_links.txt
+[0.703s] writing entry points to ../../build/ia_to_ros/ia_to_ros.egg-info/entry_points.txt
+[0.703s] writing requirements to ../../build/ia_to_ros/ia_to_ros.egg-info/requires.txt
+[0.704s] writing top-level names to ../../build/ia_to_ros/ia_to_ros.egg-info/top_level.txt
+[0.705s] reading manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.705s] writing manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.705s] running build
+[0.705s] running build_py
+[0.706s] copying ia_to_ros/ImageToText_Segmentation.py -> /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros
+[0.706s] copying ia_to_ros/TextToImage_Segmentation.py -> /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros
+[0.706s] running install
+[0.706s] running install_lib
+[0.706s] copying /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros/ImageToText_Segmentation.py -> /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros
+[0.707s] copying /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros/TextToImage_Segmentation.py -> /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros
+[0.707s] byte-compiling /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/ImageToText_Segmentation.py to ImageToText_Segmentation.cpython-310.pyc
+[0.707s] byte-compiling /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/TextToImage_Segmentation.py to TextToImage_Segmentation.cpython-310.pyc
+[0.707s] running install_data
+[0.708s] running install_egg_info
+[0.709s] removing '/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.710s] Copying ../../build/ia_to_ros/ia_to_ros.egg-info to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info
+[0.711s] running install_scripts
+[0.724s] Installing ImageToText script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] Installing TextToImage script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] Installing model script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] Installing model2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] Installing talker script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] Installing translator script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] Installing translator2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.725s] writing list of installed files to '/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log'
+[0.756s] Invoked command in '/home/josep/robotics/ModelDownload/ros2_ws/src/ia_to_ros' returned '0': PYTHONPATH=/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/home/josep/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data
