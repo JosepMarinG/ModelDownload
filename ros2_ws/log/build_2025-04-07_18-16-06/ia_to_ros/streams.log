@@ -1,0 +1,28 @@
+[0.352s] Invoking command in '/home/josep/robotics/ModelDownload/ros2_ws/src/ia_to_ros': PYTHONPATH=/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/home/josep/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data
+[0.472s] running egg_info
+[0.473s] writing ../../build/ia_to_ros/ia_to_ros.egg-info/PKG-INFO
+[0.473s] writing dependency_links to ../../build/ia_to_ros/ia_to_ros.egg-info/dependency_links.txt
+[0.473s] writing entry points to ../../build/ia_to_ros/ia_to_ros.egg-info/entry_points.txt
+[0.473s] writing requirements to ../../build/ia_to_ros/ia_to_ros.egg-info/requires.txt
+[0.473s] writing top-level names to ../../build/ia_to_ros/ia_to_ros.egg-info/top_level.txt
+[0.475s] reading manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.475s] writing manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.475s] running build
+[0.475s] running build_py
+[0.476s] running install
+[0.476s] running install_lib
+[0.477s] running install_data
+[0.477s] running install_egg_info
+[0.478s] removing '/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.479s] Copying ../../build/ia_to_ros/ia_to_ros.egg-info to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info
+[0.479s] running install_scripts
+[0.491s] Installing compressedToRaw script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.491s] Installing imageToText script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.491s] Installing model script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.491s] Installing model2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.491s] Installing talker script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.492s] Installing textToImage script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.492s] Installing translator script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.492s] Installing translator2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.492s] writing list of installed files to '/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log'
+[0.505s] Invoked command in '/home/josep/robotics/ModelDownload/ros2_ws/src/ia_to_ros' returned '0': PYTHONPATH=/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/home/josep/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data

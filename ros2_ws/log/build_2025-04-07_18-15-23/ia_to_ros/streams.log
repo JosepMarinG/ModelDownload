@@ -1,0 +1,28 @@
+[0.420s] Invoking command in '/home/josep/robotics/ModelDownload/ros2_ws/src/ia_to_ros': PS1=(.venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/home/josep/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data
+[0.545s] running egg_info
+[0.545s] writing ../../build/ia_to_ros/ia_to_ros.egg-info/PKG-INFO
+[0.545s] writing dependency_links to ../../build/ia_to_ros/ia_to_ros.egg-info/dependency_links.txt
+[0.545s] writing entry points to ../../build/ia_to_ros/ia_to_ros.egg-info/entry_points.txt
+[0.545s] writing requirements to ../../build/ia_to_ros/ia_to_ros.egg-info/requires.txt
+[0.545s] writing top-level names to ../../build/ia_to_ros/ia_to_ros.egg-info/top_level.txt
+[0.546s] reading manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.554s] writing manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+[0.554s] running build
+[0.554s] running build_py
+[0.555s] running install
+[0.555s] running install_lib
+[0.556s] running install_data
+[0.556s] running install_egg_info
+[0.557s] removing '/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.558s] Copying ../../build/ia_to_ros/ia_to_ros.egg-info to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info
+[0.558s] running install_scripts
+[0.571s] Installing compressedToRaw script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.571s] Installing imageToText script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] Installing model script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] Installing model2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] Installing talker script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] Installing textToImage script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] Installing translator script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] Installing translator2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+[0.572s] writing list of installed files to '/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log'
+[0.586s] Invoked command in '/home/josep/robotics/ModelDownload/ros2_ws/src/ia_to_ros' returned '0': PS1=(.venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/prefix_override:/home/josep/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ia_to_ros build --build-base /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build install --record /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log --single-version-externally-managed install_data

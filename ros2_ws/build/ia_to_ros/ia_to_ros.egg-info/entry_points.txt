@@ -1,4 +1,5 @@
 [console_scripts]
+compressedToRaw = ia_to_ros.CompressedToRaw:main
 imageToText = ia_to_ros.ImageToText_Segmentation:main
 model = ia_to_ros.modelRosTest:main
 model2 = ia_to_ros.model2:main

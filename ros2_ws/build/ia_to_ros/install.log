@@ -7,6 +7,7 @@
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__init__.py
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/subscriber_member_function.py
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/Translator2.py
+/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/CompressedToRaw.py
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/publisher_member_function.py
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/speech_to_text.cpython-310.pyc
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/modelRosTest.cpython-310.pyc
@@ -17,6 +18,7 @@
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/__init__.cpython-310.pyc
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/subscriber_member_function.cpython-310.pyc
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/Translator2.cpython-310.pyc
+/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/CompressedToRaw.cpython-310.pyc
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/__pycache__/publisher_member_function.cpython-310.pyc
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/share/ament_index/resource_index/packages/ia_to_ros
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/share/ia_to_ros/package.xml
@@ -27,6 +29,7 @@
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info/entry_points.txt
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info/top_level.txt
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info/zip-safe
+/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros/compressedToRaw
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros/imageToText
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros/model
 /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros/model2

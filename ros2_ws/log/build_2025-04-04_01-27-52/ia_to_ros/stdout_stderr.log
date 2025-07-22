@@ -1,0 +1,29 @@
+running egg_info
+writing ../../build/ia_to_ros/ia_to_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/ia_to_ros/ia_to_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/ia_to_ros/ia_to_ros.egg-info/entry_points.txt
+writing requirements to ../../build/ia_to_ros/ia_to_ros.egg-info/requires.txt
+writing top-level names to ../../build/ia_to_ros/ia_to_ros.egg-info/top_level.txt
+reading manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/ia_to_ros/ia_to_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+copying ia_to_ros/CompressedToRaw.py -> /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros
+running install
+running install_lib
+copying /home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/build/lib/ia_to_ros/CompressedToRaw.py -> /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros
+byte-compiling /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros/CompressedToRaw.py to CompressedToRaw.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/ia_to_ros/ia_to_ros.egg-info to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/python3.10/site-packages/ia_to_ros-0.0.0-py3.10.egg-info
+running install_scripts
+Installing compressedToRaw script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing imageToText script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing model script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing model2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing talker script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing textToImage script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing translator script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+Installing translator2 script to /home/josep/robotics/ModelDownload/ros2_ws/install/ia_to_ros/lib/ia_to_ros
+writing list of installed files to '/home/josep/robotics/ModelDownload/ros2_ws/build/ia_to_ros/install.log'

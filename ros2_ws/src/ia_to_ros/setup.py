@@ -27,6 +27,7 @@ setup(
             'translator2 = ia_to_ros.Translator2:main',
             'textToImage = ia_to_ros.TextToImage_Segmentation:main',
             'imageToText = ia_to_ros.ImageToText_Segmentation:main',
+            'compressedToRaw = ia_to_ros.CompressedToRaw:main',
         ],
     },
 )
