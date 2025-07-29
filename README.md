@@ -1,3 +1,6 @@
+Presentación explicativa: [https://docs.google.com/presentation/d/1okAaFakwR5uudRivNJiOctzxoGt19BZsmHLIoFoI7xs/edit?usp=sharing](url) 
+
+
 Teleoperacion de Alto Nivel
 
 ![image](https://github.com/user-attachments/assets/24165daf-7c0e-4c82-a51e-6d8f37c91b22)
