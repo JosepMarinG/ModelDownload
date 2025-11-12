@@ -1,0 +1,66 @@
+# =========================================================
+# 🧠 Josep Marin — Gitignore para ROS2 + Python + IA models
+# =========================================================
+
+# --- General ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Python virtual environments ---
+venv/
+.venv/
+env/
+venvs/
+*/venv/
+*/.venv/
+minicernbot_voice_env/
+*/minicernbot_voice_env/
+
+# --- Python dependencies ---
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+*.egg
+
+# --- Audio / Media (no subir audios de prueba) ---
+*.ogg
+*.flac
+*.aiff
+*.aif
+*.pcm
+
+
+
+# --- Whisper / OpenWakeWord cache ---
+whisper_cache/
+openwakeword_repo/
+openwakeword_cache/
+*/__pycache__/
+
+# --- ROS2 build artifacts ---
+build/
+install/
+log/
+.colcon/
+
+# --- ROS2 workspace files ---
+*.launch.py~
+*.launch.xml~
+*.launch.yaml~
+*.launch.old
+*.db3
+*.rviz
+*.bag
+*.bag.active
+*.bag.metadata
+*.bag.tmp
+*.bag.db3
+*.bag.sqlite3

@@ -3,6 +3,7 @@ compressedToRaw = ia_to_ros.CompressedToRaw:main
 imageToText = ia_to_ros.ImageToText_Segmentation:main
 model = ia_to_ros.modelRosTest:main
 model2 = ia_to_ros.model2:main
+speechToText = ia_to_ros.speech_to_text:main
 talker = ia_to_ros.publisher_member_function:main
 textToImage = ia_to_ros.TextToImage_Segmentation:main
 translator = ia_to_ros.TextToROS:main

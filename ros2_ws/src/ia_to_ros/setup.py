@@ -28,6 +28,7 @@ setup(
             'textToImage = ia_to_ros.TextToImage_Segmentation:main',
             'imageToText = ia_to_ros.ImageToText_Segmentation:main',
             'compressedToRaw = ia_to_ros.CompressedToRaw:main',
+            'speechToText = ia_to_ros.speech_to_text:main',
         ],
     },
 )
