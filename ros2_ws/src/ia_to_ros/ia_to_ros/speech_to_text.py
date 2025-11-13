@@ -27,7 +27,7 @@ class VoiceNode(Node):
     def __init__(self):
         super().__init__("voice_control")
 
-        self.publisher = self.create_publisher(String, "/voice/text", 10)
+        self.publisher = self.create_publisher(String, "/modelInput", 10)
 
         self.model = Model(wakeword_models=[WAKEWORD], inference_framework="onnx")
         self.vad = webrtcvad.Vad(2)
